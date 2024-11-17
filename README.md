@@ -16,12 +16,12 @@ Aşağıdaki araçların sisteminizde kurulu olduğundan emin olun:
 1. **Projeyi Klonlayın**  
 Proje deposunu bilgisayarınıza klonlayın:
 ```bash
-git clone <proje-repozitory-url>
+git clone https://github.com/tufkan1/TurkticaretnetTestCase.git
 ```
 
 Proje klasörüne girin:
 ```bash
-cd proje-klasörü
+cd TurkticaretnetTestCase
 ```
 
 
